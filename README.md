@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on anything where i can be useful
 - 📫 How to reach me contact me on telegram if you want @Samuel_co17 or instagram @samcoriat_
 
-<!---
-Samuelmassco/Samuelmassco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->read me file classic prendre celui autre fichier 
+
